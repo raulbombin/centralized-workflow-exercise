@@ -6,7 +6,7 @@
 - rigatoni
 - pancetta
 - peas
-- mushruums
+- mushrooms
 - onions
 
 
